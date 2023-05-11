@@ -1,1 +1,1 @@
-Junior GLua codder
+Junior GLua coder
